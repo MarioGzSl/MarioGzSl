@@ -2,7 +2,7 @@
 
 I'm currently
 - 🔭  working on my thesis about classification in NLP.
-- 🌱  learning javascript. I'm interested in web development and integration with ML.
+- :book:  learning javascript. I'm interested in web development and integration with ML.
 <!--
 **MarioGzSl/MarioGzSl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
