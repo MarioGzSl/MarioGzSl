@@ -1,8 +1,8 @@
 ### Hi  👋
 
 I'm currently
-- 🔭  working on my thesis about classification in NLP.
-- :book:  learning javascript. I'm interested in web development and integration with ML.
+- 🔭 I’m currently working at Oracle
+- 🌱 I’m currently working with JS
 <!--
 **MarioGzSl/MarioGzSl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
