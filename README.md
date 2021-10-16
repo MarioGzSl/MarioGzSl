@@ -1,8 +1,4 @@
-### Hi  👋
-
-I'm currently
-- 🔭 I’m currently working at Oracle
-- 🌱 I’m currently working with JS
+![Metric](https://metrics.lecoq.io/mariogzsl)
 <!--
 **MarioGzSl/MarioGzSl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
