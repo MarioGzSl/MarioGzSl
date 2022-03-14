@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 -->
 
 
-![Follow me](https://img.shields.io/twitter/follow/mariogzsl?style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/mariogzsl?style=social)
