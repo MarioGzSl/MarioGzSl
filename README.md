@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Follow me](https://img.shields.io/twitter/follow/mariogzsl?style=social)
