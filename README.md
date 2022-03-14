@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-![Twitter Follow](https://img.shields.io/twitter/follow/mariogzsl?style=social)
+[![twitter](https://img.shields.io/twitter/follow/mariogzsl)](https://twitter.com/intent/follow?screen_name=mariogzsl)
