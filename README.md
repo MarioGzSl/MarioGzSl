@@ -1,6 +1,6 @@
 # Hi! Nice to meet you.
 
-I'm a software engineer at Microsoft, currently working on backend development and test automation. 
+I'm a Full Stack Software Developer with a passion for building web applications and solving problems. I'm currently working as a Software Engineer at @Microsoft in Redmond, Washington.
 
 ---
 
