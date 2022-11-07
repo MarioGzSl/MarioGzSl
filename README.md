@@ -1,5 +1,3 @@
-# Hi! Nice to meet you.
-
 Welcome to my GitHub profile!
 
 I am a Full Stack Software Engineer, living in Seattle. I am passionate about Natural Language Processing (NLP) and love to compete in programming contests.
