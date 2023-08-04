@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mario Guzman!
 
-I'm a Full Stack Software Engineer based in **Seattle, Washington**. I work at **Microsoft**, and I'm passionate about **Artificial Intelligence** and **Natural Language Processing** (AI/NLP). My hobbies include **traveling** 🌍 and **competitive programming** 👨‍💻.
+I'm a Software Engineer based in **Seattle, Washington**. I work at **Microsoft**, and I'm passionate about **Artificial Intelligence** and **Natural Language Processing** (AI/NLP). My hobbies include **traveling** 🌍 and **competitive programming** 👨‍💻.
 
 ## 🚀 Skills and Experience
 
