@@ -1,19 +1,6 @@
-# 👋 Hi there, I'm Mario Guzman!
+### About Me
 
-I'm a Software Engineer based in **Seattle, Washington**. I work at **Microsoft**, and I'm passionate about **Artificial Intelligence** and **Natural Language Processing** (AI/NLP). My hobbies include **traveling** 🌍 and **competitive programming** 👨‍💻.
+At my core, I enjoy building things with technology. Whether crafting efficient algorithms, designing intuitive user interfaces, or architecting scalable systems, my goal is always to reduce entropy and bring clarity to ideas through code.
 
-## 🚀 Skills and Experience
+Explore my repositories to see what I've been working on.
 
-* 💻 Full Stack Development with **.NET** and **React**
-* 🧠 **Artificial Intelligence** and **Natural Language Processing**
-* 🤖 Created several projects using NLP techniques, such as a **chatbot**, a **text summarizer**, and a **sentiment analyzer**.
-* 📚 Published academic work in the NLP field
-
-## 🤝 Let's Connect!
-
-Feel free to reach out if you have any questions or want to chat. I hope you enjoy exploring my projects and find them helpful.
-
-Thanks for stopping by, have a great day! 😊
-
-      
-[![twitter](https://img.shields.io/twitter/follow/mariogzsl)](https://twitter.com/intent/follow?screen_name=mariogzsl)
